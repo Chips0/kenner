@@ -31,12 +31,6 @@ def my_bots():
 	bots=[]
 	bots.append("http://validator.w3.org/check?uri=")
 	bots.append("http://www.facebook.com/sharer/sharer.php?u=") 
-        bots.append("http://vps.cohenrisk.com/~xoxohth/go.php?url=")
-        bots.append("http://www.quelsoft.com/go.php?url=")
-        bots.append("http://www.xohth.com/beta/go.php?url=")
-        bots.append("http://www.find-a-car.info/go.php?url=")
-        bots.append("http://www.jonko.eu/tools/hide_referrer/go.php?url=")
-        bots.append("http://ec2-50-17-240-22.compute-1.amazonaws.com/blog/go.php?url=")
      return(bots)
 
 
